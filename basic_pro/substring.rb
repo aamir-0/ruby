@@ -11,7 +11,7 @@ def substring(str,dic)
    print res
 end
 dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
- ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
+ ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit","hello"]
  
  print("enter the string to be searched:")
  som=gets 

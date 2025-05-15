@@ -81,7 +81,7 @@ class Mastermind
 end
 
 game=Mastermind.new
-puts "choose codemaker press 1 or to choose guesser press 2"
+puts "To choose Codemaker press 1 or to choose Guesser press 2"
       n=gets.chomp
       case n 
         
