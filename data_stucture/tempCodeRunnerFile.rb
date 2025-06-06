@@ -1,0 +1,1 @@
+p hasher('nana')
